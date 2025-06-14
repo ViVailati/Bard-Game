@@ -1,6 +1,6 @@
 [gd_scene load_steps=9 format=3 uid="uid://eltevnr85553"]
 
-[ext_resource type="Script" uid="uid://dpl0bob8jiyin" path="res://Scenes/Player.cs" id="1_kyqiw"]
+[ext_resource type="Script" uid="uid://dpl0bob8jiyin" path="res://Scripts/Player.cs" id="1_kyqiw"]
 [ext_resource type="Texture2D" uid="uid://dc5aa1svoexe0" path="res://Assets/Knight_player/Idle_KG_1.png" id="1_rpqav"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_qbkls"]
